@@ -1,5 +1,9 @@
 # skill-genie
 
+[![Last commit](https://img.shields.io/github/last-commit/clarezoe/skill-genie)](https://github.com/clarezoe/skill-genie/commits/main)
+[![Stars](https://img.shields.io/github/stars/clarezoe/skill-genie)](https://github.com/clarezoe/skill-genie/stargazers)
+[![Issues](https://img.shields.io/github/issues/clarezoe/skill-genie)](https://github.com/clarezoe/skill-genie/issues)
+
 A curated collection of reusable skills and workflows that turn everyday tasks into fast, repeatable actions.
 
 ## Why this exists
