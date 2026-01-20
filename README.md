@@ -4,7 +4,6 @@ skill-genie is a curated collection of reusable skills and workflows that accele
 
 ## What's inside
 
-- `AGENTS.md` with project-level instructions for agents.
 - Skill folders with their own `SKILL.md` and supporting assets.
 
 ## Contributing
